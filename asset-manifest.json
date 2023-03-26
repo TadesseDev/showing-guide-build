@@ -1,31 +1,37 @@
 {
   "files": {
-    "main.js": "/showing-guide-build/static/js/main.01bd8a35.js",
+    "main.js": "/showing-guide-build/static/js/main.ba3149da.js",
     "static/js/787.86b2ef87.chunk.js": "/showing-guide-build/static/js/787.86b2ef87.chunk.js",
     "static/media/picture_2.png": "/showing-guide-build/static/media/picture_2.58444d47a566d6836768.png",
     "static/media/picture_1.png": "/showing-guide-build/static/media/picture_1.2721321206c3df3d7c50.png",
     "static/media/picture_3.png": "/showing-guide-build/static/media/picture_3.4d7d1ff91cf10b188c94.png",
     "static/media/Gilroy-ExtraBold.otf": "/showing-guide-build/static/media/Gilroy-ExtraBold.0094146a0505298ed06a.otf",
     "static/media/Gilroy-Light.otf": "/showing-guide-build/static/media/Gilroy-Light.cc7ab55d27205bd64001.otf",
+    "static/media/share.svg": "/showing-guide-build/static/media/share.c8d3a29cdc4565c6f12738bce25c4bb6.svg",
+    "static/media/my_note.svg": "/showing-guide-build/static/media/my_note.7b7209af932d5d3ca1b5d514c9839a0c.svg",
     "static/media/calendar.svg": "/showing-guide-build/static/media/calendar.7f325c84cb6f5b2186b03e1f0eee6ed7.svg",
     "static/media/setting.svg": "/showing-guide-build/static/media/setting.29a0fc41835f398ceeeba293a3b3a3bd.svg",
+    "static/media/turkey.svg": "/showing-guide-build/static/media/turkey.4ff1d03d11c95ba24a4f7163eff40466.svg",
     "static/media/msl_list.svg": "/showing-guide-build/static/media/msl_list.68c9b06603c22c260c83379764369997.svg",
     "static/media/my_client.svg": "/showing-guide-build/static/media/my_client.b48d4b60d57ade9a20406ff7c0498cf2.svg",
     "static/media/notifications.svg": "/showing-guide-build/static/media/notifications.bcf0a53dd48b97d719949c922547f7e3.svg",
     "static/media/dashboard.svg": "/showing-guide-build/static/media/dashboard.ca09660c5bd1646ce082d8f244322201.svg",
     "static/media/help_desk.svg": "/showing-guide-build/static/media/help_desk.e2334c58bbd524337deaf91949fc7eb8.svg",
+    "static/media/view_on_map.svg": "/showing-guide-build/static/media/view_on_map.55156de52b9c7fa9956744fffbbe27c2.svg",
+    "static/media/get_directions.svg": "/showing-guide-build/static/media/get_directions.c62ad7ffaac2f86b518d04014b87dd52.svg",
     "static/media/search_property.svg": "/showing-guide-build/static/media/search_property.27d2717f80e4a8d646dbdc56ba2562cb.svg",
     "index.html": "/showing-guide-build/index.html",
     "static/media/logout.svg": "/showing-guide-build/static/media/logout.f550fd5ec2a0b08880c22135203b79a9.svg",
+    "static/media/sms.svg": "/showing-guide-build/static/media/sms.f2d646839f16b763e46453b2f5beeb5c.svg",
     "static/media/sidebar-icon.svg": "/showing-guide-build/static/media/sidebar-icon.d85349051a5aa2b9b97ff2adcd92febd.svg",
     "static/media/search.svg": "/showing-guide-build/static/media/search.99de3096e56617fc90bcf4ad6fe23895.svg",
     "static/media/arrow_next.svg": "/showing-guide-build/static/media/arrow_next.c0d4262a6274b803a93920914aafa108.svg",
     "static/media/arrow_back.svg": "/showing-guide-build/static/media/arrow_back.a157a8fc5547934ff77f12a26c6e6fd5.svg",
     "static/media/arrow_down.svg": "/showing-guide-build/static/media/arrow_down.2617dbf259849477a5899922aeabfa26.svg",
-    "main.01bd8a35.js.map": "/showing-guide-build/static/js/main.01bd8a35.js.map",
+    "main.ba3149da.js.map": "/showing-guide-build/static/js/main.ba3149da.js.map",
     "787.86b2ef87.chunk.js.map": "/showing-guide-build/static/js/787.86b2ef87.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.01bd8a35.js"
+    "static/js/main.ba3149da.js"
   ]
 }

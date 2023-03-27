@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/showing-guide-build/static/js/main.7845f0c9.js",
+    "main.js": "/showing-guide-build/static/js/main.710ef955.js",
     "static/js/787.86b2ef87.chunk.js": "/showing-guide-build/static/js/787.86b2ef87.chunk.js",
     "static/media/picture_2.png": "/showing-guide-build/static/media/picture_2.58444d47a566d6836768.png",
     "static/media/picture_1.png": "/showing-guide-build/static/media/picture_1.2721321206c3df3d7c50.png",
@@ -15,30 +15,36 @@
     "static/media/2_garage.svg": "/showing-guide-build/static/media/2_garage.fbc8b53e681e2433d3a1bc7e7f34b6e4.svg",
     "static/media/calendar.svg": "/showing-guide-build/static/media/calendar.7f325c84cb6f5b2186b03e1f0eee6ed7.svg",
     "static/media/apartment.svg": "/showing-guide-build/static/media/apartment.b6e1814714ff8652b7b2f5566010f593.svg",
+    "static/media/demographics.svg": "/showing-guide-build/static/media/demographics.5447d480e1be4e6934933633097c1348.svg",
     "static/media/setting.svg": "/showing-guide-build/static/media/setting.29a0fc41835f398ceeeba293a3b3a3bd.svg",
     "static/media/turkey.svg": "/showing-guide-build/static/media/turkey.4ff1d03d11c95ba24a4f7163eff40466.svg",
+    "static/media/property_history.svg": "/showing-guide-build/static/media/property_history.040d75cdf60f0b4e61dc2d0782848112.svg",
     "static/media/msl_list.svg": "/showing-guide-build/static/media/msl_list.68c9b06603c22c260c83379764369997.svg",
+    "static/media/toggle_off.svg": "/showing-guide-build/static/media/toggle_off.d7dacecfa74c509983a485ce0c2ca657.svg",
     "static/media/my_client.svg": "/showing-guide-build/static/media/my_client.b48d4b60d57ade9a20406ff7c0498cf2.svg",
     "static/media/notifications.svg": "/showing-guide-build/static/media/notifications.bcf0a53dd48b97d719949c922547f7e3.svg",
+    "static/media/key_facts.svg": "/showing-guide-build/static/media/key_facts.36d13c02cd4ec67312b18c682d4cc8c5.svg",
     "static/media/3_bedrooms.svg": "/showing-guide-build/static/media/3_bedrooms.36a159854e287fda9e23103ea94ff9c5.svg",
     "static/media/dashboard.svg": "/showing-guide-build/static/media/dashboard.ca09660c5bd1646ce082d8f244322201.svg",
     "static/media/help_desk.svg": "/showing-guide-build/static/media/help_desk.e2334c58bbd524337deaf91949fc7eb8.svg",
     "static/media/view_on_map.svg": "/showing-guide-build/static/media/view_on_map.55156de52b9c7fa9956744fffbbe27c2.svg",
     "static/media/get_directions.svg": "/showing-guide-build/static/media/get_directions.c62ad7ffaac2f86b518d04014b87dd52.svg",
+    "static/media/Shortcuts.svg": "/showing-guide-build/static/media/Shortcuts.14978c2a3b14c3cbba4345d8d0b8bec8.svg",
     "static/media/search_property.svg": "/showing-guide-build/static/media/search_property.27d2717f80e4a8d646dbdc56ba2562cb.svg",
     "index.html": "/showing-guide-build/index.html",
     "static/media/logout.svg": "/showing-guide-build/static/media/logout.f550fd5ec2a0b08880c22135203b79a9.svg",
     "static/media/1_963_sq_ft.svg": "/showing-guide-build/static/media/1_963_sq_ft.27d62fcc4e41b03b510ad44c5fb85875.svg",
     "static/media/sms.svg": "/showing-guide-build/static/media/sms.f2d646839f16b763e46453b2f5beeb5c.svg",
     "static/media/sidebar-icon.svg": "/showing-guide-build/static/media/sidebar-icon.d85349051a5aa2b9b97ff2adcd92febd.svg",
+    "static/media/Points_of_interest.svg": "/showing-guide-build/static/media/Points_of_interest.2b6db5ff31848f145de019d98685c3f4.svg",
     "static/media/search.svg": "/showing-guide-build/static/media/search.99de3096e56617fc90bcf4ad6fe23895.svg",
     "static/media/arrow_next.svg": "/showing-guide-build/static/media/arrow_next.c0d4262a6274b803a93920914aafa108.svg",
     "static/media/arrow_back.svg": "/showing-guide-build/static/media/arrow_back.a157a8fc5547934ff77f12a26c6e6fd5.svg",
     "static/media/arrow_down.svg": "/showing-guide-build/static/media/arrow_down.2617dbf259849477a5899922aeabfa26.svg",
-    "main.7845f0c9.js.map": "/showing-guide-build/static/js/main.7845f0c9.js.map",
+    "main.710ef955.js.map": "/showing-guide-build/static/js/main.710ef955.js.map",
     "787.86b2ef87.chunk.js.map": "/showing-guide-build/static/js/787.86b2ef87.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.7845f0c9.js"
+    "static/js/main.710ef955.js"
   ]
 }
